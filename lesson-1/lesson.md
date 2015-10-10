@@ -2,21 +2,32 @@
 
 The Raspberry Pi is a tiny computer smaller than a pack of cards, which can transform the way we perceive and approach computation. In this lesson we will introduce the basic components of the Raspberry Pi and how they relate to a traditional computer.
 
+Der Raspberry Pi ist ein kleiner Computer, nur etwa so gross wie ein Kartenspiel, der unsere Vorstellung von Computern verändern kann. In dieser Stunde stellen wir die Komponenten des Raspberry Pi vor und erklären, welchen Teilen eines traditionellen Computers diese entsprechen.
+
 We will discuss the general nature of computation and how the same computer can be programmed to simultaneously do many different things, from word processing to music synthesis. Finally, we will introduce the most basic principle of programming: a program as a sequence of instructions.
 
+Wir unterhalten uns über Grundlagen von ** und darüber, wie der gleiche Computer so programmiert werden kann, dass er gleichzeitig verschiedene Dinge tut - von Textverarbeitung zum Komponieren. Am Ende stellen wir das einfachste Prinzip des Programmierens vor: Ein Computerprogramm als Abfolge von Befehlen.  
+
 ## Learning objectives
+
+### Lernziele
 
 - Know the basic architectures of a computing device.
 - Understand the difference between hardware and software.
 - Be able to set up a Raspberry Pi, turn it on, load the graphical user interface, and navigate the desktop for the first time.
 
+- die SuS kennen die Grundbauseine eines Computers
+- die SuS verstehen den Unterschied zwischen Hardware und Software
+- die SuS können einen Raspberry Pi aufsetzen, anschalten, das graphische Userinterface laden und sich das erste Mal auf dem Desktop bewegen.
+
 ## Learning outcomes
 
-**All students are able to:**
+## Lernfortschritt
 
-- Plug the components of a Raspberry Pi together.
-- Understand that computers are general-purpose devices, and that not every computer obviously resembles one.
-- Identify the basic architecture of a computer: processor, storage, and input/output.
+** Alle SuS können ***
+- die Komponenten des Raspberry Pi zusammensetzen
+- verstehen, dass Computer **** sind und dass nicht alle Computer gleich aussehen müssen.
+- die Grundbausteine eines Computers - Prozessor, Speicher, und Input/Output - benennen.
 
 **Most students are able to:**
 
